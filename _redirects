@@ -1,5 +1,6 @@
 /v2            https://codeberg.org/v2                     307
 /v2/           https://codeberg.org/v2/                    307
+/v2/token      https://codeberg.org/v2/token               307
 /v2/library/*  https://codeberg.org/v2/xrstf/:splat        307
 /v2/labs/*     https://codeberg.org/v2/xrstf-labs/:splat   307
 /v2/xrstf/*    https://codeberg.org/v2/xrstf/:splat        307
